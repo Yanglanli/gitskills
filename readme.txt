@@ -1,2 +1,6 @@
 Git dev
-Git dev2 readmexxx
+<<<<<<< HEAD
+Git dev3 readme
+=======
+Git dev3 readme
+>>>>>>> featurel

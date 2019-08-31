@@ -1,4 +1,4 @@
-Git dev again
+Git dev againfix
 <<<<<<< HEAD
 Git dev3 readme
 =======
